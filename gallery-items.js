@@ -1,5 +1,4 @@
 import gallery from "./gallery.js";
-
 const galleryUl = document.querySelector(".js-gallery");
 const modalDiv = document.querySelector(".js-lightbox");
 const modalImg = document.querySelector(".lightbox__image");
